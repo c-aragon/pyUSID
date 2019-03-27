@@ -1,0 +1,16 @@
+
+:orphan:
+
+.. _sphx_glr_auto_examples_intermediate_sg_execution_times:
+
+Computation times
+=================
+**02:59.518** total execution time for **auto_examples_intermediate** files:
+
+- **01:29.033**: :ref:`sphx_glr_auto_examples_intermediate_plot_parallel_compute.py` (``plot_parallel_compute.py``)
+- **01:27.753**: :ref:`sphx_glr_auto_examples_intermediate_plot_process.py` (``plot_process.py``)
+- **00:01.800**: :ref:`sphx_glr_auto_examples_intermediate_plot_write_utils.py` (``plot_write_utils.py``)
+- **00:00.633**: :ref:`sphx_glr_auto_examples_intermediate_plot_hdf_utils_write.py` (``plot_hdf_utils_write.py``)
+- **00:00.119**: :ref:`sphx_glr_auto_examples_intermediate_plot_io_utils.py` (``plot_io_utils.py``)
+- **00:00.093**: :ref:`sphx_glr_auto_examples_intermediate_plot_dtype_utils.py` (``plot_dtype_utils.py``)
+- **00:00.088**: :ref:`sphx_glr_auto_examples_intermediate_plot_comp_utils.py` (``plot_comp_utils.py``)
